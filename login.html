@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="./styles.css">
 </head>
+
 <body>
 
     <!-- Navbar -->
@@ -20,5 +22,30 @@
         </ul>
     </header>
 
+    <h1>Ingresa a tu cuenta</h1>
+
+    <h2>LOGIN</h2>
+
+    <form action="" method="POST" id="formulario-register">
+
+        <div>
+            <label for="mail">Email:</label>
+            <input type="email" id="mail" name="emailUsuario" required minlength="5"
+                placeholder="Ingrese su dirección de email" title="Debe ingresar un email válido">
+        </div>
+
+        <div>
+            <label for="">Contraseña::</label>
+            <input type="password" name="password_user" id="" placeholder="Ingrese una contraseña" required>
+        </div>
+
+        <div>
+            <button type="submit">Ingresar</button>
+        </div>
+
+    </form>
+
+    <p><a href="./register.html">¿Aun no tienes cuenta? REGISTRATE</a></p>
 </body>
+
 </html>

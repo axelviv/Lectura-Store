@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registro</title>
     <link rel="stylesheet" href="./styles.css">
 </head>
+
 <body>
 
     <!-- Navbar -->
@@ -20,5 +22,46 @@
         </ul>
     </header>
 
+    <h1>Registro de nuevo usuario</h1>
+
+    <form action="" method="POST" id="formulario-register">
+
+        <div>
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombreUsuario" required minlength="3"
+                placeholder="Ingrese su nombre (mín. 3 caracteres)" title="Debe ingresar al menos 3 caracteres.">
+        </div>
+
+        <div>
+            <label for="apellido">Apellido:</label>
+            <input type="text" id="apellido" name="apellidoUsuario" required minlength="3"
+                placeholder="Ingrese su apellido (mín. 3 caracteres)" title="Debe ingresar al menos 3 caracteres.">
+        </div>
+
+        <div>
+            <label for="fecha">Fecha de nacimiento:</label>
+            <input type="date" id="fecha" name="fechaNacimientoUsuario" required
+                title="La fecha no puede ser superior a la actual">
+        </div>
+
+        <div>
+            <label for="mail">Email:</label>
+            <input type="email" id="mail" name="emailUsuario" required minlength="5"
+                placeholder="Ingrese su dirección de email" title="Debe ingresar un email válido">
+        </div>
+
+        <div>
+            <label for="">Contraseña:</label>
+            <input type="password" name="password_user" id="" placeholder="Ingrese una contraseña" required>
+        </div>
+
+        <div>
+            <button type="submit">Registrarse</button>
+        </div>
+
+        <p id="logueate"><a href="./login.html">¿Ya tienes una cuenta? LOGUEATE</a></p>
+    </form>
+
 </body>
+
 </html>
