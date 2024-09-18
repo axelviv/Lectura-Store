@@ -1,3 +1,15 @@
-body {
-    background-color: rgb(95, 105, 126);
+@import "navbar.css";
+
+#menu {
+    margin: 10px;
+    font-size: 1.6rem;
+}
+
+.btn {
+    background-color: rgb(206, 184, 158);
+    border-color: rgb(184, 166, 147);
+}
+
+.carousel-inner img {
+    height: 700px;
 }
