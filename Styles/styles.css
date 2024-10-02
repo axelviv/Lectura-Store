@@ -1,0 +1,32 @@
+
+#menu {
+    margin: 10px;
+    font-size: 1.6rem;
+}
+
+#menu {
+    font-size: 1.4rem;
+    padding: 0 .5rem;
+}
+
+.btn {
+    background-color: rgb(206, 184, 158);
+    border-color: rgb(184, 166, 147);
+}
+
+.carousel-inner img {
+    height: 700px;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 26rem;
+}
+
+.card-title {
+    color: rgb(175, 150, 122);
+}
+
+h1 {
+    color: rgb(175, 150, 122);
+}
