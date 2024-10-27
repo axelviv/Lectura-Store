@@ -1,0 +1,154 @@
+{
+    "cardsElementsSeñaladores": [
+      {
+        "title": "Señalador de Harry Potter",
+        "img": "Assets/señalador-harry.webp",
+        "description": "Sumérgete en el mágico mundo de Harry Potter con estos señaladores de libros magnéticos de la marca Mooving. Cada uno de ellos está diseñado con un colorido y atractivo diseño inspirado en la popular serie de libros y películas. Son el complemento perfecto para cualquier fanático de Harry Potter, añadiendo un toque de magia a tu lectura.",
+        "price": "$9.00"
+      },
+      {
+        "title": "Señalador de Homero",
+        "img": "Assets/homero.webp",
+        "description": "Señalador imantado en ambas caras de Homero Simpson, color Verde.",
+        "price": "$8.99"
+      },
+      {
+        "title": "Señalador Mickey y Minnie",
+        "img": "Assets/señalador-mickey.webp",
+        "description": "Señalador Magnético Mooving Mickey & Minnie X 2 Unidades.",
+        "price": "$6.00"
+      },
+      {
+        "title": "Rey Nocturno Imantado",
+        "img": "Assets/rey-nocturno.webp",
+        "description": "Señalador imantado en ambas caras con gràfico impreso del Rey Nocturno de Juego de Tronos en cartulina opaca 250 gr.",
+        "price": "$9.99"
+      },
+      {
+        "title": "Señalador de Harry Potter",
+        "img": "Assets/señalador-harry.webp",
+        "description": "Sumérgete en el mágico mundo de Harry Potter con estos señaladores de libros magnéticos de la marca Mooving. Cada uno de ellos está diseñado con un colorido y atractivo diseño inspirado en la popular serie de libros y películas. Son el complemento perfecto para cualquier fanático de Harry Potter, añadiendo un toque de magia a tu lectura.",
+        "price": "$9.00"
+      },
+      {
+        "title": "Señalador de Homero",
+        "img": "Assets/homero.webp",
+        "description": "Señalador imantado en ambas caras de Homero Simpson, color Verde.",
+        "price": "$8.99"
+      },
+      {
+        "title": "Señalador Mickey y Minnie",
+        "img": "Assets/señalador-mickey.webp",
+        "description": "Señalador Magnético Mooving Mickey & Minnie X 2 Unidades.",
+        "price": "$6.00"
+      },
+      {
+        "title": "Rey Nocturno Imantado",
+        "img": "Assets/rey-nocturno.webp",
+        "description": "Señalador imantado en ambas caras con gràfico impreso del Rey Nocturno de Juego de Tronos en cartulina opaca 250 gr.",
+        "price": "$9.99"
+      }
+
+    ],
+    "cardsElementsLibros": [
+      {
+        "title": "El señor de los Anillos",
+        "img": "Assets/lotr.webp",
+        "description": "Novela de fantasía épica escrita por el filólogo y escritor británico J. R. R. Tolkien.",
+        "price": "$89.00"
+      },
+      {
+        "title": "Harry Potter",
+        "img": "Assets/hp.webp",
+        "description": "Primer libro de la serie literaria Harry Potter, escrito por la autora británica J. K. Rowling en 1997.",
+        "price": "$55.99"
+      },
+      {
+        "title": "Juego de Tronos",
+        "img": "Assets/got.webp",
+        "description": "Novela de fantasía escrita por el autor estadounidense George R. R. Martin en 1996 y ganadora del premio Locus a la mejor novela de fantasía en 1997.",
+        "price": "$60.00"
+      },
+      {
+        "title": "El Maravilloso Mago de Oz",
+        "img": "Assets/magodeoz.webp",
+        "description": "La novela, que narra las aventuras de una muchacha llamada Dorothy Gale en la tierra de Oz, una de las historias más conocidas de la cultura popular.",
+        "price": "$49.99"
+      },
+      {
+        "title": "El señor de los Anillos",
+        "img": "Assets/lotr.webp",
+        "description": "Novela de fantasía épica escrita por el filólogo y escritor británico J. R. R. Tolkien.",
+        "price": "$89.00"
+      },
+      {
+        "title": "Harry Potter",
+        "img": "Assets/hp.webp",
+        "description": "Primer libro de la serie literaria Harry Potter, escrito por la autora británica J. K. Rowling en 1997.",
+        "price": "$55.99"
+      },
+      {
+        "title": "Juego de Tronos",
+        "img": "Assets/got.webp",
+        "description": "Novela de fantasía escrita por el autor estadounidense George R. R. Martin en 1996 y ganadora del premio Locus a la mejor novela de fantasía en 1997.",
+        "price": "$60.00"
+      },
+      {
+        "title": "El Maravilloso Mago de Oz",
+        "img": "Assets/magodeoz.webp",
+        "description": "La novela, que narra las aventuras de una muchacha llamada Dorothy Gale en la tierra de Oz, una de las historias más conocidas de la cultura popular.",
+        "price": "$49.99"
+      }
+    ],
+    "cardsElementsFundas": [
+      {
+        "title": "Funda de Lionel Messi",
+        "img": "Assets/funda-messi.webp",
+        "description": "Estampado de Lionel Messi con sublimado en ambos lados y tela tropical.",
+        "price": "$19.00"
+      },
+      {
+        "title": "Funda de Diego Maradona",
+        "img": "Assets/funda_maradona.webp",
+        "description": "Estampado de Diego Maradona con sublimado en ambos lados y tela tropical.",
+        "price": "$18.99"
+      },
+      {
+        "title": "Funda con bolsillo",
+        "img": "Assets/funda1.webp",
+        "description": "Funda de libro personalizada y disponible en tamaño grande con un pequeño bolsillo.",
+        "price": "$12.00"
+      },
+      {
+        "title": "Funda de Mafalda",
+        "img": "Assets/funda_mafalda.webp",
+        "description": "Hechas a mano con telas de calidad en algodón y loneta reciclada roja y bolsillo tela de algodón estampado Mafalda. Acolchada, con bolsillo y cierre imán. Con marcapáginas a juego.",
+        "price": "$19.99"
+      },
+      {
+        "title": "Funda de Lionel Messi",
+        "img": "Assets/funda-messi.webp",
+        "description": "Estampado de Lionel Messi con sublimado en ambos lados y tela tropical.",
+        "price": "$19.00"
+      },
+      {
+        "title": "Funda de Diego Maradona",
+        "img": "Assets/funda_maradona.webp",
+        "description": "Estampado de Diego Maradona con sublimado en ambos lados y tela tropical.",
+        "price": "$18.99"
+      },
+      {
+        "title": "Funda con bolsillo",
+        "img": "Assets/funda1.webp",
+        "description": "Funda de libro personalizada y disponible en tamaño grande con un pequeño bolsillo.",
+        "price": "$12.00"
+      },
+      {
+        "title": "Funda de Mafalda",
+        "img": "Assets/funda_mafalda.webp",
+        "description": "Hechas a mano con telas de calidad en algodón y loneta reciclada roja y bolsillo tela de algodón estampado Mafalda. Acolchada, con bolsillo y cierre imán. Con marcapáginas a juego.",
+        "price": "$19.99"
+      }
+    ]
+  }
+  

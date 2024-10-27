@@ -2,9 +2,6 @@
 #menu {
     margin: 10px;
     font-size: 1.6rem;
-}
-
-#menu {
     font-size: 1.4rem;
     padding: 0 .5rem;
 }
@@ -14,8 +11,24 @@
     border-color: rgb(184, 166, 147);
 }
 
+
 .carousel-inner img {
-    height: 700px;
+    height: 30rem;
+    width: 50rem;
+    object-fit:fill;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(50%) sepia(100%) saturate(586%) hue-rotate(12deg) brightness(75%) contrast(97%);
+}
+
+.carousel-control-prev {
+    left: -8rem; /* Desplaza el botón izquierdo hacia afuera */
+}
+
+.carousel-control-next {
+    right: -8rem; /* Desplaza el botón derecho hacia afuera */
 }
 
 .card-img-top {
@@ -24,9 +37,15 @@
 }
 
 .card-title {
-    color: rgb(175, 150, 122);
+    color: rgb(131, 119, 106);
 }
 
 h1 {
     color: rgb(175, 150, 122);
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(161, 155, 148);
+    margin-bottom: 0;
 }

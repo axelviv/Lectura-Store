@@ -21,37 +21,50 @@
 
     <div class="container">        
         
-        <div class="row justify-content-center">
+        <!-- <div class="row justify-content-center">
             <img src="../Assets/banner-dia-libro-infantil.webp" alt="" class="img-fluid">
-        </div>
+        </div> -->
     
         <h1 class="row justify-content-center mt-5">Disfruta del Mundo de la Lectura</h1>
 
         <div class="d-flex justify-content-center mb-5 mt-5">
-            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
+          <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+              <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="../Assets/lotr.webp" class="d-block w-100" alt="Imagen del libro del Señor de los Anillos">
+                      <img src="../Assets/pro1.webp" class="d-block" alt="Propaganda Numero 1">
                   </div>
                   <div class="carousel-item">
-                    <img src="../Assets/señalador-harry.webp" class="d-block w-100" alt="Imagen de señalador de Harry Potter">
+                      <img src="../Assets/pro2.webp" class="d-block" alt="Propaganda Numero 2">
                   </div>
                   <div class="carousel-item">
-                    <img src="../Assets/funda-messi.webp" class="d-block w-100" alt="Imagen de funda de Messi">
+                      <img src="../Assets/pro3.webp" class="d-block" alt="Propaganda Numero 3">
                   </div>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                   <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
                   <span class="carousel-control-next-icon" aria-hidden="true"></span>
                   <span class="visually-hidden">Next</span>
-                </button>
-              </div>
-        </div>
-
+              </button>
+          </div>
+        </div>   
     </div>
+    
+
+    <div class="mejores">
+      <h2 class="row justify-content-center mt-5">Libros de la semana</h2>
+      <div class="row mt-4 d-flex justify-content-center flex-wrap" id="cardHome-libros"></div>
+
+      <h2 class="row justify-content-center mt-5">Señaladores de la semana</h2>
+      <div class="row mt-4 d-flex justify-content-center flex-wrap" id="cardHome-señaladores"></div>
+
+      <h2 class="row justify-content-center mt-5">Fundas de la semana</h2>
+      <div class="row mt-4 d-flex justify-content-center flex-wrap" id="cardHome-fundas"></div>
+    </div>
+           
+    
 
     <!-- JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
