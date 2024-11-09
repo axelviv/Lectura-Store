@@ -49,3 +49,19 @@ h2 {
     color: rgb(161, 155, 148);
     margin-bottom: 0;
 }
+
+#tabla {
+    background-color: rgb(175, 150, 122) !important;
+}
+
+h3 {
+    color: rgb(175, 150, 122);
+}
+
+#totalPagar {
+    color: rgb(175, 150, 122);
+}
+
+.bi {
+    font-size: 1.6rem;
+}

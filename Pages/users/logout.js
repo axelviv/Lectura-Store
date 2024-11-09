@@ -7,9 +7,12 @@
             const logoutButton = document.getElementById('logout');
             
                 logoutButton.addEventListener('click', function() {
+
+                    sessionStorage.removeItem('usuarioLogueado'); // Eliminar usuario logueado de sessionStorage
+
                     window.location.href = `${url}pages/users/login.html`;
                     
-                    alert('Sesion Cerrada!.');
+                    alert('Sesion Finalizada!.');
                 });
 
             

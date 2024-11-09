@@ -9,7 +9,11 @@ document.getElementById('loginForm').addEventListener('submit', function(e) {
     const user = users.find(user => user.email === username && user.password === password);
 
     if (user) {
-        alert('Inicio de sesion exitoso!.');
+        // Guardar la información del usuario en sessionStorage
+        sessionStorage.setItem('usuarioLogueado', JSON.stringify(user));        
+
+        alert(`Sesion Iniciada. Bienvenido ${user.nombre}`);
+
         window.location.href = '../home.html';
     } else {
         alert('Usuario o contraseña incorrectos. Intenta nuevamente!');
